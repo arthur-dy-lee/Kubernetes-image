@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/calico-ctl:3.4.4
