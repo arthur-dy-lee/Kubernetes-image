@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/calico-ctl:v3.4.4
+FROM quay.io/calico/ctl:v3.4.4
