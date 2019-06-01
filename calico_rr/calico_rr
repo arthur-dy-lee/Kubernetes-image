@@ -1,0 +1,1 @@
+FROM quay.io/calico/rr:v0.6.1
